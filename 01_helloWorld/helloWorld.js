@@ -1,5 +1,7 @@
 const helloWorld = function() {
-  return ''
+  return 'Hello, World!'
 };
 
 module.exports = helloWorld;
+
+/*npm test exerciseName.spec.js*/
